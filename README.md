@@ -10,8 +10,8 @@
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maximiliano-belli-0b2a74211/"> <img src = "https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt = "Linkedin" altura = "30" /> </a>
-<a href="mailto: bellimaximiliano@gmail.com"> <img src = "https://image.flaticon.com/icons/png/512/732/732200.png" alt = "Correo electrónico" height = "30 "/> </a>
+<a href="https://www.linkedin.com/in/juancereceda/"> <img src = "https://res.cloudinary.com/dlexbrcrv/image/upload/v1621273442/Proyects/linkedin_1_wfivod.svg" alt = "Linkedin" altura = "30" /> </a>
+<a href="mailto: juanmcereceda@gmail.com"> <img src = "https://image.flaticon.com/icons/png/512/732/732200.png" alt = "Correo electrónico" height = "30 "/> </a>
 </p>
 
   
