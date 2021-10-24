@@ -11,7 +11,7 @@
  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/maximiliano-belli-0b2a74211" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-belli-0b2a74211" height="30" width="40" /></a>
-<a href="mailto: juanmcereceda@gmail.com"> <img src = "https://image.flaticon.com/icons/png/512/732/732200.png" alt = "Correo electrónico" height = "30 "/> </a>
+<a href="mailto: bellimaximiliano@gmail.com"> <img src = "https://image.flaticon.com/icons/png/512/732/732200.png" alt = "Correo electrónico" height = "30 "/> </a>
 </p>
 
   
