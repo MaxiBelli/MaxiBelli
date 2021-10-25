@@ -1,7 +1,5 @@
-![GitHub Banner](./)
+![GitHub Banner](./images/maximilianobelli.jpg)
 
-<h1 align="center">Hi 👋, I'm Maximiliano Belli</h1>
-<h3 align="center">Full Stack Developer</h3>
 
 <h2> About Me: </h2>
 
@@ -21,7 +19,16 @@
 <a href="mailto: bellimaximiliano@gmail.com"> <img src = "https://image.flaticon.com/icons/png/512/732/732200.png" alt = "Correo electrónico" height = "30 "/> </a>
 </p>
 
+<h2 align="left">My Projects:</h2>
+
+<h3 align="left">Countries of the world App</h3>
   
+<p>
+  <a><img src="./images/1.png" alt="LandingPage" height="50%" width="45%"></a>
+  <a><img src="./images/2.png" alt="Home" height="50%" width="45%"></a>
+  <a><img src="./images/3.png" alt="DetailCountry" height="50%" width="45%"></a>
+  <a><img src="./images/4.png" alt="FormActivity" height="50%" width="45%"></a>
+</p>
 
 
 
